@@ -79,3 +79,7 @@ Utilising problem solving skills with a focus on efficiency and memory managemen
 ## Hobbies
 
 I enjoy keeping fit by running and cycling, as well as playing the piano and chess.
+
+## Contact Details
+
+Email: georgehett95@gmail.com
