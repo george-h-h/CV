@@ -44,7 +44,7 @@ Again at Makers, I rose to postions of leadership when working on the team proje
 
 #### Receptive to Feedback
 
-
+Constant desire to improve, with a focus on receiving feedback as often as possible and taking the time to self-evaluate and action upon the key points. At Makers, there were many opportunities to receive feedback from coaches, which I took advantage of. I compiled their suggestions and started tracking my progress in the areas they had suggested I work on, and over time I saw positive results. No matter what feedback I get, I will gladly take it on board.
 
 ## Tech Skills
 
