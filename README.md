@@ -1,6 +1,6 @@
 ## George Hett
 
-I'm a recent graduate of the Makers Academy software engineering bootcamp who studied mathematics at university, looking to make the leap into software engineering. After privately tutoring through the uncertainty of the pandemic, now that stability has returned I have decided this is the right time to pursue a career-change. I'm excited to contribute towards building technology that will have a benefit.
+I'm a recent graduate of the Makers Academy software engineering bootcamp who studied mathematics at university, looking to make the leap into software engineering. After privately tutoring through the uncertainty of the pandemic, now that stability has returned I have decided this is the right time to pursue a career-change. I'm excited to contribute towards building technology that will have a benefit in any way.
 
 ## Makers Projects
 
