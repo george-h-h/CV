@@ -40,7 +40,7 @@ When working in a team environment, I recognise that it's so important that ever
 
 #### Leadership
 
-Again at Makers, I rose to positions of leadership when working on the team projects. I adopted the approach of leading without dominating vocally, preferring to source opinions from around the room, and keep things organised ahead of time so my inputs were less necessary. I put a huge emphasis on emotional wellbeing. With the bootcamp being so intense and condensed in to a short period of time, people took the projects extremely seriously and consequently the environment could sometimes get quite stressful. I successfully deescalated tensions on multiple occasions, and my proactive approach avoided disagreements escalating into conflicts.
+Again at Makers, I rose to positions of leadership when working on the team projects. I adopted the approach of leading without dominating vocally, preferring to source opinions from around the room, and keep things organised ahead of time so my inputs were less necessary. I put a huge emphasis on emotional wellbeing. With the bootcamp being so intense and condensed into a short period of time, people took the projects extremely seriously and consequently the environment could sometimes get quite stressful. I successfully de-escalated tensions on multiple occasions, and my proactive approach avoided disagreements escalating into conflicts.
 
 #### Receptive to Feedback
 
