@@ -32,7 +32,7 @@ _Data Science Intern_
 
 #### Problem Solving
 
-With a background in mathematics, I've always been interested in navigating tricky situations and finding answers to conundrums. As I've grown up, this has evolved from simply solving puzzles to helping with interpersonal issues in a professional environment, thinking about long-term strategy, and prioritisation of pending tasks.
+With a background in mathematics, I've always been interested in navigating tricky situations and finding answers to conundrums. As I've grown up, this has evolved from simply solving puzzles to helping with interpersonal issues in a professional environment, thinking about long-term strategy, and prioritisation of pending tasks. My approach has always been first to listen and question any other people involved, and then to take the necessary time to evaluate all viable options before arriving at a conclusion.
 
 #### Teamwork
 
