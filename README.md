@@ -1,6 +1,6 @@
 ## George Hett
 
-I'm a recent graduate of the Makers Academy software engineering bootcamp who studied mathematics at university. After privately tutoring through the uncertainty of the pandemic, now that stability has returned I have decided this is the right time to pursue a career-change into software engineering. I have just less than a year's industrial experience coding - primarily in Python, and now a few years later I have a keen interest in picking up new languages and technologies.
+I'm a recent graduate of the Makers Academy software engineering bootcamp who studied mathematics at university. After privately tutoring through the uncertainty of the pandemic, now that stability has returned I have decided this is the right time to pursue a career-change into software engineering. I have just less than a year's industrial experience coding - primarily in Python, and after becoming a self-led learner I have caught the bug of learning new languages and technologies. I'm a methodical problem solver who loves to collaborate and make development as fun as possible.
 
 ## Makers Projects
 
