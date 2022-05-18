@@ -1,6 +1,6 @@
 ## George Hett
 
-I'm a recent graduate of the Makers Academy software engineering bootcamp who studied mathematics at university, looking to make the leap into software engineering. After privately tutoring through the uncertainty of the pandemic, now that stability has returned I have decided this is the right time to pursue a career-change. I'm excited to contribute towards building technology that will have a benefit in any way.
+I'm a recent graduate of the Makers Academy software engineering bootcamp who studied mathematics at university. After privately tutoring through the uncertainty of the pandemic, now that stability has returned I have decided this is the right time to pursue a career-change into software engineering. I have just less than a year's industrial experience coding - primarily in Python, and now a few years later I have a keen interest in picking up new languages and technologies.
 
 ## Makers Projects
 
@@ -17,7 +17,7 @@ All Makers projects were built following test-driven development (TDD).
 **Self-Employed** (September 2018 to May 2021)  
 _Tutor of Mathematics_
 
-- Delivered weekly sessions to over a dozen students per academic year, on average improving their results by 2 grades from their predicted grade (modern GCSE scale).
+- Delivered weekly sessions to over a dozen students per academic year, on average improving their results by 2 grades from their predicted grades (modern GCSE scale).
 - Subtly adapted my teaching style to better suit the individual's learning needs.
 - Nurtured my confidence explaining concepts to others, and developing their pattern recognition skills.
 
