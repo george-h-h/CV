@@ -70,7 +70,7 @@ Utilising problem solving skills with a focus on efficiency and memory managemen
 #### Makers Academy (January 2022 to May 2022)
 - Pair-programmed or worked in teams every day of the 12-week bootcamp.
 - Learned a new tech stack (Node & Express) from scratch in 6 weeks, to the point where I was able to produce two good quality multi-page web applications in teams of people in the same situation.
-- Sought out critical feedback from coaches which I utilised to improve my development process.
+- Sought out critical feedback from coaches which I utilised to improve my developer process.
 
 #### University of Sheffield (2014 to 2018)
 
